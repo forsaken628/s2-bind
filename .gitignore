@@ -1,2 +1,6 @@
 # Rust
 target/
+
+sys/abseil-src/build/
+sys/install/
+sys/s2-src/build/

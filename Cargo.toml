@@ -1,0 +1,18 @@
+[package]
+name = "s2-bind"
+version = "0.1.0"
+authors = []
+license = "MIT"
+edition = "2021"
+
+[features]
+
+
+[dependencies]
+
+[lib]
+
+
+[workspace]
+
+members = ["s2-sys-bind", "sys"]
